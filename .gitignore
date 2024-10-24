@@ -1,0 +1,11 @@
+# Ignore mp4 files
+*.mp4
+
+# Ignore webm files
+*.webm
+
+# Ignore text files
+*.txt
+
+# Ignore mp3 files
+*.mp3
